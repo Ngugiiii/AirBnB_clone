@@ -28,9 +28,9 @@ class TestAmenity(unittest.TestCase):
 
     def resetStorage(self):
         """Resets FileStorage data."""
-        FileStorage.FileStorage_objects = {}
-        if os.path.isfile(FileStorage.FileStorage_file_path):
-            os.remove(FileStorage.FileStorage_file_path)
+        FileStorage._FileStorage__objects = {}
+        if os.path.isfile(FileStorage._FileStorage__file_path):
+            os.remove(FileStorage._FileStorage__file_path)
 
     def test_8_instantiation(self):
         """Tests instantiation of Amenity class."""
@@ -48,5 +48,5 @@ class TestAmenity(unittest.TestCase):
             self.assertTrue(hasattr(o, k))
             self.assertEqual(type(getattr(o, k, None)), v)
 
-if _name_ == "_main_":
-    unittest.main()
+if __name__ == "__main__":
+    unittest.main()
