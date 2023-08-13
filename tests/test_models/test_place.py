@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 """unittest module for the Place Class."""
-
 import unittest
 from datetime import datetime
 import time
