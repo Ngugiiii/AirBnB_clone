@@ -5,7 +5,12 @@
 /* body styles */
 body {
     color: #484848;
+<<<<<<< HEAD
     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px; /* You can set the font size like this */
 }
 
+=======
+    font-family: 14px Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+>>>>>>> ebf10671df7d6ff3f0f9d63b3c607f003015ebd5

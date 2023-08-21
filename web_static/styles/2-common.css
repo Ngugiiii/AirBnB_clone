@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 dy {
     margin: 0;
@@ -8,3 +9,14 @@ main {
     min-height: calc(100vh - 130px);
 }
 
+=======
+/* 
+* === Global Styles ===
+*/
+
+/* body styles */
+body {
+    margin: 0;
+    padding: 0;
+}
+>>>>>>> ebf10671df7d6ff3f0f9d63b3c607f003015ebd5

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 der {
     background-color: #FF0000;
     height: 70px;
@@ -11,3 +12,12 @@ header h1 {
     color: white;
 }
 
+=======
+/* header styls */
+
+header {
+    background: #f00;
+    height: 70px;
+    width: 100%;
+  }
+>>>>>>> ebf10671df7d6ff3f0f9d63b3c607f003015ebd5

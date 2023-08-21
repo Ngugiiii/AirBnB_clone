@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ter {
     background-color: #00FF00;
@@ -14,3 +15,15 @@ footer h2 {
     color: white;
 }
 
+=======
+footer {
+    align-items: center;
+    background-color: #0f0;
+    bottom: 0;
+    display: flex;
+    height: 60px;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+  }
+>>>>>>> ebf10671df7d6ff3f0f9d63b3c607f003015ebd5
