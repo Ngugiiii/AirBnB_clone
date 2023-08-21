@@ -1,0 +1,11 @@
+/*
+* global styles
+*/
+
+/* body styles */
+body {
+    color: #484848;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px; /* You can set the font size like this */
+}
+
